@@ -8,7 +8,7 @@
 | Week   | Lecture | Topic                                                          |
 | ------ | ------: | -------------------------------------------------------------- |
 | **1**  |       1 | Introduction to Algorithms and Abstract Data Types             |
-|        |       2 | Algorithm Analysis: Time, Space, Big-O, Big-Ω, and Big-Θ       |
+|        |       2 | Algorithm Analysis: Time and Space Complexities                |
 | **2**  |       3 | Arrays, Vectors, and Dynamic Arrays                            |
 |        |       4 | Linear Search and Binary Search                                |
 | **3**  |       5 | Linked Lists: Concepts and Implementation                      |
