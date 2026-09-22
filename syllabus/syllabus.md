@@ -125,12 +125,12 @@ Students are responsible for ensuring that their programs compile and run in the
 
 | Assessment              | Percentage |
 | ----------------------- | ---------: |
-| Weekly Quizzes          |        10% |
-| Homework                |        10% |
+| Attendance              |        5%  |
+| Quizzes                 |        10% |
+| Assignmnets             |        15% |
 | Programming Labs        |        20% |
-| Programming Assignments |        15% |
 | Midterm Exam            |        15% |
-| Final Project           |        15% |
+| Final Project           |        20% |
 | Final Exam              |        15% |
 | **Total**               |   **100%** |
 
