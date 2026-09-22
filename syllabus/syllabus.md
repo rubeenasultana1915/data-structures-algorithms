@@ -169,19 +169,16 @@ Students are expected to follow the Saint Louis University Academic Integrity Po
 
 All submitted work must represent the student's own work. Plagiarism, unauthorized collaboration, copying code, fabrication of results, and other forms of academic misconduct are prohibited.
 
-The complete policy is available through the [SLU Academic Integrity resources](https://www.slu.edu/provost/academic-integrity/index.php).
 
 ## 4.2 Title IX
 
 Saint Louis University is committed to providing a learning environment free from discrimination and harassment.
 
-Students seeking information, support, or reporting options should consult the University's [Title IX Information and Resources](https://www.slu.edu/about/safety/sexual-assault-resources/index.php).
 
 ## 4.3 Disability Accommodations
 
 Students with documented disabilities who wish to request academic accommodations should contact the **Center for Accessibility and Disability Resources (CADR)** and follow the university accommodation process.
 
-Information about accommodations is available through the [SLU Center for Accessibility and Disability Resources](https://www.slu.edu/life-at-slu/student-success-center/accessibility-and-disability-resources/).
 
 ## 4.4 Generative AI
 
